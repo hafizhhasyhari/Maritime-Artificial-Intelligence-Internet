@@ -67,6 +67,9 @@ Panduan ini untuk menjalankan kode-kode praktikum dan latihan di dalam repositor
 
 Struktur file ini dirancang untuk mendokumentasikan setiap komponen pembelajaran per minggu.
 
+---
+
+''' bash
 AI-Internet-Maritim/ 
 │ 
 ├── README.md # Halaman yang sedang Anda baca 
@@ -100,6 +103,7 @@ AI-Internet-Maritim/
 │ └── 🖼️_media/    
 ├── banner.png # File gambar untuk README    
 └── screenshots/ # Screenshot aplikasi/hasil
+'''
 
 ---
 
